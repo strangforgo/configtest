@@ -5,4 +5,5 @@ test:
 org.chenhui.configure : 
   name : henhui
   address : zhi jiang huayuan
+  message : add more info
   
