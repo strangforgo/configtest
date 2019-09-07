@@ -3,7 +3,7 @@ test:
     name: chenhui
 
 org.chenhui.configure : 
-  name : henhui
+  name : chenhui
   address : zhi jiang huayuan
   message : add more info test1
   
