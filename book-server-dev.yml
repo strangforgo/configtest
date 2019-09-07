@@ -2,4 +2,7 @@ test:
   user:
     name: chenhui
 
+org.chenhui.configure : 
+  name : henhui
+  adress : zhi jiang huayuan
   
